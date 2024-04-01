@@ -38,7 +38,7 @@ define( 'DB_HOST', 'localhost' );
 
 	
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'if0_36277787_XXX' );
+define( 'DB_NAME', 'if0_36277787_wp963' );
 
 /** Database username */
 define( 'DB_USER', 'if0_36277787' );
